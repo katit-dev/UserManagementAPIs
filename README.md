@@ -37,7 +37,7 @@ UserManagementApi
 ├── DTOs
 │   ├── UserCreateDTO.cs
 │   ├── UserUpdateDTO.cs
-│   └── ApiResponse.cs
+│   └── ResponseTypeDTO.cs
 │
 ├── Models
 │   └── User.cs
