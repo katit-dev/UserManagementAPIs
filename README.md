@@ -170,6 +170,12 @@ All APIs return the same response structure:
 
 ---
 
+### 🔹 Migration Image
+
+![Migration Image](Screenshots/migration.png)
+
+---
+
 ![.NET](https://img.shields.io/badge/.NET-6.0-purple)
 ![C#](https://img.shields.io/badge/C%23-Programming-blue)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
